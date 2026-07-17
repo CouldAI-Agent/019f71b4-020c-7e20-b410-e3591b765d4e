@@ -71,7 +71,7 @@ class WelcomeScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const Text(
-                        'Today\\'s Rates',
+                        "Today's Rates",
                         style: TextStyle(
                           fontSize: 20,
                           fontWeight: FontWeight.bold,
